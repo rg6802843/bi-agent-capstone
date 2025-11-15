@@ -1,0 +1,5 @@
+{"timestamp": "2025-11-15 19:42:54.278747", "session_id": "20251115_194254", "message": "Session started"}
+{"timestamp": "2025-11-15 19:42:54.298219", "session_id": "20251115_194254", "message": "Data cleaned: {'initial_shape': (6, 5), 'after_duplicates': (5, 5), 'missing_values_before': {'date': 0, 'region': 0, 'product': 0, 'units_sold': 1, 'price': 1}, 'missing_values_after': {'date': 0, 'region': 0, 'product': 0, 'units_sold': 0, 'price': 0}, 'cleaned_file': 'outputs\\\\cleaned_20251115_194254.csv'}"}
+{"timestamp": "2025-11-15 19:42:55.789096", "session_id": "20251115_194254", "message": "EDA complete \u2014 4 plots"}
+{"timestamp": "2025-11-15 19:42:55.832662", "session_id": "20251115_194254", "message": "Insights generated"}
+{"timestamp": "2025-11-15 19:42:55.853519", "session_id": "20251115_194254", "message": "Final report generated: outputs\\report_20251115_194255.md"}

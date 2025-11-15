@@ -1,0 +1,27 @@
+{
+    "session_id": "20251116_023029",
+    "file_path": "demo_data/sales_sample.csv",
+    "created_at": "2025-11-16 02:30:29.389801",
+    "metrics": {
+        "rows_after_cleaning": 5,
+        "columns": 5,
+        "missing_before": {
+            "date": 0,
+            "region": 0,
+            "product": 0,
+            "units_sold": 1,
+            "price": 1
+        },
+        "missing_after": {
+            "date": 0,
+            "region": 0,
+            "product": 0,
+            "units_sold": 0,
+            "price": 0
+        },
+        "plots_generated": 4,
+        "insight_file": "C:\\Users\\RISHABH GUPTA\\OneDrive\\Desktop\\bi-agent-capstone\\bi-agent-capstone\\sessions\\20251116_023029\\insights.md",
+        "report_path": "C:\\Users\\RISHABH GUPTA\\OneDrive\\Desktop\\bi-agent-capstone\\bi-agent-capstone\\sessions\\20251116_023029\\report.md",
+        "total_runtime_seconds": 3.0
+    }
+}
